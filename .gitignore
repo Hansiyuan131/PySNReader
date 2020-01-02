@@ -2,3 +2,5 @@
 Data
 .log
 .sqlite3
+logs
+dbs
